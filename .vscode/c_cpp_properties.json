@@ -16,7 +16,8 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                // "${workspaceFolder}/**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/imu",
                 "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\cores\\arduino",
                 "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\variants\\standard",
                 "C:\\Users\\admin\\Documents\\Arduino\\libraries\\MPU6050\\src",
